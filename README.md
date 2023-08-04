@@ -1,5 +1,4 @@
 # DividendYieldValue
-Aqui está a documentação detalhada para o código fornecido, juntamente com algumas ideias de como explorar ainda mais o código:
 
 ### Análise de Dividendos e Rendimento de Dividendos
 
